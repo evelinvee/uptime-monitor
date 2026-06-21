@@ -1,0 +1,12 @@
+{
+  "history_length": 48,
+  "timeout_seconds": 8,
+  "sites": [
+    { "name": "GitHub",       "url": "https://github.com" },
+    { "name": "Cloudflare",   "url": "https://www.cloudflare.com" },
+    { "name": "Wikipedia",    "url": "https://www.wikipedia.org" },
+    { "name": "Python.org",   "url": "https://www.python.org" },
+    { "name": "Hacker News",  "url": "https://news.ycombinator.com" },
+    { "name": "example.com",  "url": "https://example.com" }
+  ]
+}

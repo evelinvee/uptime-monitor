@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Status Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="head">
+      <div class="title">
+        <span class="logo" aria-hidden="true">
+          <svg width="34" height="34" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="36" height="36" rx="10" fill="#16c784"/>
+            <path d="M7 19 h6 l3 -7 l4 13 l3 -6 h6" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </svg>
+        </span>
+        <div>
+          <h1>Status Monitor</h1>
+          <p class="sub">Automated uptime checks · refreshed by GitHub Actions</p>
+        </div>
+      </div>
+      <div class="overall" id="overall"></div>
+    </header>
+
+    <section class="cards" id="cards"></section>
+
+    <footer class="foot" id="foot"></footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
