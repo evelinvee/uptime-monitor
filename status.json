@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T17:22:01+00:00",
+  "generated": "2026-06-26T21:51:19+00:00",
   "summary": {
     "total": 6,
     "up": 6,
@@ -11,9 +11,9 @@
       "url": "https://github.com",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 114,
+      "latency_ms": 84,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -205,6 +205,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 114
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 84
         }
       ]
     },
@@ -213,9 +218,9 @@
       "url": "https://www.cloudflare.com",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 291,
+      "latency_ms": 238,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -407,6 +412,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 291
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 238
         }
       ]
     },
@@ -415,9 +425,9 @@
       "url": "https://www.wikipedia.org",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 74,
+      "latency_ms": 75,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -609,6 +619,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 74
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 75
         }
       ]
     },
@@ -617,9 +632,9 @@
       "url": "https://www.python.org",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 23,
+      "latency_ms": 9,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -811,6 +826,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 23
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 9
         }
       ]
     },
@@ -819,9 +839,9 @@
       "url": "https://news.ycombinator.com",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 258,
+      "latency_ms": 65,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -1013,6 +1033,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 258
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 65
         }
       ]
     },
@@ -1021,9 +1046,9 @@
       "url": "https://example.com",
       "ok": true,
       "status_code": 200,
-      "latency_ms": 26,
+      "latency_ms": 17,
       "error": null,
-      "last_checked": "2026-06-26T17:22:01+00:00",
+      "last_checked": "2026-06-26T21:51:19+00:00",
       "uptime": 100.0,
       "history": [
         {
@@ -1215,6 +1240,11 @@
           "t": "2026-06-26T17:22:01+00:00",
           "ok": true,
           "ms": 26
+        },
+        {
+          "t": "2026-06-26T21:51:19+00:00",
+          "ok": true,
+          "ms": 17
         }
       ]
     }
